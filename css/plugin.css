@@ -1,0 +1,30 @@
+/*
+* Copyright 2014, All Rights Reserved.
+*
+* Code licensed under the MIT License:
+* http://brenopolanski.mit-license.org
+*
+* @author Breno Polanski <breno.polanski@gmail.com>
+* Release version 0.1.0
+*
+* Summary:
+*
+*	0. TOOLS
+*/
+
+/* ==========================================================================
+   0. TOOLS
+   ========================================================================== */
+
+.saiku-gmaps-tools {
+	position: absolute;
+	top: 10px auto;
+	height: 50px;
+	right: 10px;
+	left: 10px;
+	border: 1px solid #BBB;
+	background: #EEE;
+	background: -webkit-gradient(linear, left top, left bottom, from(#F0F0F0), to(#EEE));
+    background: -moz-linear-gradient(top, #F0F0F0 0%, #EEE 100%);
+    background: linear-gradient(top, #F0F0F0 0%, #EEE 100%);
+}
