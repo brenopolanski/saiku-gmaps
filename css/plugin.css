@@ -10,13 +10,14 @@
 * Summary:
 *
 *	0. TOOLS
+*		- 0.1. MENU
 */
 
 /* ==========================================================================
    0. TOOLS
    ========================================================================== */
 
-.saiku-gmaps-tools {
+.saiku-gmaps-ctn-tools {
 	position: absolute;
 	top: 10px auto;
 	height: 50px;
@@ -27,4 +28,51 @@
 	background: -webkit-gradient(linear, left top, left bottom, from(#F0F0F0), to(#EEE));
     background: -moz-linear-gradient(top, #F0F0F0 0%, #EEE 100%);
     background: linear-gradient(top, #F0F0F0 0%, #EEE 100%);
+}
+
+/* 0.1. MENU
+   ========================================================================== */
+
+.saiku-gmaps-menu ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 7px 10px 7px 10px;
+}
+
+.saiku-gmaps-menu > li {
+	float: left;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.saiku-gmaps-menu ul li { 
+	float: left;
+	display: inline-block;
+	margin: 0;
+	padding-right: 6px;
+}
+
+.saiku-gmaps-menu ul li.separator {
+	border-left: 1px solid #CCC;
+	display: block;
+	height: 26px;
+	padding: 4px 4px 6px 4px;
+	width: 1px;
+}
+
+.saiku-gmaps-menu ul li a {
+	border: 1px solid transparent;
+	display: block;
+	height: 26px;
+	padding: 4px;
+	width: 26px;
+}
+
+.saiku-gmaps-menu ul li a:hover {
+	background-color: #FFF;
+	border: 1px solid #CCC;
+	padding: 4px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
 }
