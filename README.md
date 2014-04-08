@@ -1,6 +1,24 @@
 # Saiku Gmaps
 
-**IN DEVELOPMENT** :v:
+Saiku Gmaps is a plugin for [Saiku analytical tool](http://meteorite.bi/saiku) that allows the user create customized maps using Google Maps.
+
+## Examples Images
+
+Screenshot #1
+
+![print 1](https://raw.github.com/brenopolanski/saiku-gmaps/gh-assets/print-1.png)
+
+Screenshot #2
+
+![print 2](https://raw.github.com/brenopolanski/saiku-gmaps/gh-assets/print-2.png)
+
+Screenshot #3
+
+![print 3](https://raw.github.com/brenopolanski/saiku-gmaps/gh-assets/print-3.png)
+
+Screenshot #4
+
+![print 4](https://raw.github.com/brenopolanski/saiku-gmaps/gh-assets/print-4.png)
 
 ## Browser Support 
 
@@ -21,6 +39,20 @@ English is the universal language nowadays, so please don't create or comment on
 ## History
 
 For detailed changelog, see [Releases](https://github.com/brenopolanski/saiku-gmaps/releases).
+
+## Author
+
+[![Breno Polanski](http://gravatar.com/avatar/6f211e50751c3b69b5621e49a0a3072b?s=70)](https://github.com/brenopolanski) |
+--- | --- | --- | --- | --- | --- | ---
+[Breno Polanski](https://github.com/brenopolanski)<br>brenopolanski@gmail.com |
+
+## Credits
+
+* Alysson Thiago Souza Cordeiro (<autscc@gmail.com>)
+* Anderson de Camargo Engroff (<andersonengroff@gmail.com>)
+* Ely Richardson Silva Ferreira (<ely.richardson@gmail.com>)
+* Pedro Vitor Cerqueira Pacheco (<users2010@gmail.com>)
+* Suzana Nunes de Moraes (<suzanazul@gmail.com>)
 
 ## License
 
