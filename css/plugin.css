@@ -13,7 +13,8 @@
 *	1. TOOLS
 *		- 1.1. MENU
 *	2. SELECT VARIABLE
-*	3. CONTAINER MAP
+*   3. COLOR PALETTE
+*	4. CONTAINER MAP
 */
 
 /* ==========================================================================
@@ -75,6 +76,18 @@
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     border-radius: 2px;
+}
+
+.saiku-gmaps-inputOf {
+    position: absolute;
+    top: 136px;
+    left: 50px;
+}
+
+.saiku-gmaps-inputTo {
+    position: absolute;
+    top: 136px;
+    left: 145px;
 }
 
 /* ==========================================================================
@@ -155,7 +168,50 @@
 }
 
 /* ==========================================================================
-   3. CONTAINER MAP
+   3. COLOR PALETTE
+   ========================================================================== */
+
+.saiku-gmaps-color-palette {
+    width: 30px;
+}
+
+.saiku-gmaps-color-palette input {
+    float: left;
+    border: 1px solid #CCC;
+    width: 30px;
+    height: 30px;
+    margin: 10px auto;
+    display: block;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.saiku-gmaps-btn-paint {
+    background: #F0F0F0;
+    background: -webkit-gradient(linear, left top, left bottom, from(#FFF), to(#F0F0F0));
+    background: -moz-linear-gradient(top, #FFF 0%, #F0F0F0 100%);
+    background: linear-gradient(top, #FFF 0%, #f0f0f0 100%);
+    border: 1px solid #CCC;
+    color: #222;
+    font-size: 20px;
+    width: 280px;
+    height: 50px;
+}
+
+.saiku-gmaps-btn-paint:hover {
+    border: 1px solid #999;
+    color: #222;
+    cursor: pointer;
+}
+
+.saiku-gmaps-btn-paint[disabled] {
+    opacity: .5;
+    cursor: progress;
+}
+
+/* ==========================================================================
+   4. CONTAINER MAP
    ========================================================================== */
 
 .saiku-gmaps-ctn-map {
