@@ -2,6 +2,8 @@
 
 Saiku Gmaps is a plugin for [Saiku analytical tool](http://meteorite.bi/saiku) that allows the user create customized maps using Google Maps.
 
+> IN DEVELOPMENT
+
 ## Examples Images
 
 Screenshot #1
