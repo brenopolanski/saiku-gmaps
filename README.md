@@ -56,6 +56,10 @@ For detailed changelog, see [Releases](https://github.com/brenopolanski/saiku-gm
 * Pedro Vitor Cerqueira Pacheco (<users2010@gmail.com>)
 * Suzana Nunes de Moraes (<suzanazul@gmail.com>)
 
+I gratefully acknowledge the following open source projects:
+
+* [Saiku UI](https://github.com/OSBI/saiku-ui) A user interface for the Saiku analytical tool (Apache license)
+
 ## License
 
 [MIT License](http://brenopolanski.mit-license.org/) © Breno Polanski
