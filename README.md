@@ -52,7 +52,7 @@ For detailed changelog, see [Releases](https://github.com/brenopolanski/saiku-gm
 
 * Alysson Thiago Souza Cordeiro (<autscc@gmail.com>)
 * Anderson de Camargo Engroff (<andersonengroff@gmail.com>)
-* Ely Richardson Silva Ferreira (<ely.richardson@gmail.com>)
+* Ely Richardson Lima Ferreira (<ely.richardson@gmail.com>)
 * Pedro Vitor Cerqueira Pacheco (<users2010@gmail.com>)
 * Suzana Nunes de Moraes (<suzanazul@gmail.com>)
 
